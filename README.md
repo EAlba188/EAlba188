@@ -39,6 +39,8 @@
 
 
 <!--- stats & Trophy (start) -->
+
+
 <p align="center">
   <!--- stats (start) -->
 <table align="center">
@@ -46,8 +48,11 @@
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=EAlba188&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
+<img align="center"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=EAlba188&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
+    alt="EAlba188" 
+    bg_color=#808080/></p>
+
   </td>
 </tr>
 </table>
