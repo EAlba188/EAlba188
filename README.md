@@ -1,4 +1,5 @@
 
+
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
@@ -9,7 +10,7 @@
 <!--- snake -->
 <div align="center">
   <img  src="https://github.com/EAlba188/EAlba188/blob/main/The-Secret-of-Monkey-Island-Wallpapers-Animated-GIF-Backgrounds-Video-Game-First-Part-The-Three-Trials-Lookout-Watchman-of-Melee-Island.gif"
-       alt="snake" /></a>
+       alt="monkey" /></a>
 </div>
 
 
@@ -47,6 +48,7 @@
 <img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=EAlba188&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="EAlba188" 
+    width= 500px
     bg_color=#808080/></p>
 
   </td>
