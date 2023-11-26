@@ -7,7 +7,22 @@
   </ul>
 </div>
 
-<!--- snake -->
+
+
+<!--Intro start-->
+- 🔭 I’m currently working on **Streamlit, NumPy, Pandas, Python**.
+  
+- 👀 I’m interested in **Machine Learning, Statistics, Business**.
+
+- 🌱 I’m currently learning **Computer Science at UoPeople**.
+
+- 📫 Feel free to reach me out **edenalba188@gmail.com**.
+
+<!--Intro end-->
+
+
+
+<!--- monkey -->
 <div align="center">
   <img  src="https://github.com/EAlba188/EAlba188/blob/main/The-Secret-of-Monkey-Island-Wallpapers-Animated-GIF-Backgrounds-Video-Game-First-Part-The-Three-Trials-Lookout-Watchman-of-Melee-Island.gif"
        alt="monkey" /></a>
@@ -22,17 +37,11 @@
 </div>
 
 
-<!--Intro start-->
-- 🔭 I’m currently working on **Streamlit, NumPy, Pandas, Python**.
-  
-- 👀 I’m interested in **Machine Learning, Statistics, Business**.
-
-- 🌱 I’m currently learning **Computer Science at UoPeople**.
-
-- 📫 Feel free to reach me out **edenalba188@gmail.com**.
-
-<!--Intro end-->
-
+<!--- monkey -->
+<div align="center">
+  <img  src="https://github.com/EAlba188/EAlba188/blob/main/rick-and-morty-rick.gif"
+       alt="monkey" /></a>
+</div>
 
 
 <!--- stats & Trophy (start) -->
@@ -93,7 +102,9 @@ Some PHP, Laravel, FastAPI
 </p>
 
 
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
+<!--- monkey -->
+<div align="center">
+  <img  src="https://github.com/EAlba188/EAlba188/blob/main/rick-and-morty-crazy.gif"
+       alt="monkey" /></a>
+</div>
 Last Edited on: 26/11/2023
