@@ -67,6 +67,8 @@
   </ul>
 </div>
 <!--tech stack icons-->
+Python, NumPy, Pandas, Django, Streamlit, Java, Scrapy, PL/SQL
+Some PHP, Laravel, FastAPI
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,java,numpy,pandas,streamlit,django,pycharm&perline=14" />
@@ -81,6 +83,8 @@
     <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
   </ul>
 </div>
+
+# Add languages
 
 <!--icons and links-->
 <p align="center">
