@@ -76,8 +76,24 @@
   </ul>
 </div>
 <!--tech stack icons-->
-Python, NumPy, Pandas, Django, Streamlit, Java, Scrapy, PL/SQL
-Some PHP, Laravel, FastAPI
+
+![Python](https://img.shields.io/badge/-Python-4287f5?style=flat&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/-NumPy-6b9ff2?style=flat&logo=numpy&logoColor=white)
+![HTML5](https://img.shields.io/badge/-Pandas-592bf0?style=flat&logo=pandas&logoColor=white)
+![HTML5](https://img.shields.io/badge/-django-0f6b17?style=flat&logo=django&logoColor=white)
+![HTML5](https://img.shields.io/badge/-SQLAlchemy-a80d22?style=flat&logo=sqlalchemy&logoColor=white)
+![HTML5](https://img.shields.io/badge/-Streamlit-de0b28?style=flat&logo=streamlit&logoColor=white)
+![HTML5](https://img.shields.io/badge/-Java-7c15bd?style=flat&logo=android&logoColor=white)
+![HTML5](https://img.shields.io/badge/-Scrapy-0aa82a?style=flat&logo=Python&logoColor=white)
+![HTML5](https://img.shields.io/badge/-SQL-0d2dba?style=flat&logo=postgresql&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-ff8000?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-118bd6?style=flat&logo=css)
+![JSON](https://img.shields.io/badge/-json-9da8b0?style=flat&logo=json)
+![MySQL](https://img.shields.io/badge/-MySQL-0d2dba?style=flat&logo=mysql)
+![MySQL](https://img.shields.io/badge/-Php-005a9c?style=flat&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/-Laravel-fc0008?style=flat&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/-FastAPI-00c28e?style=flat&logo=fastapi&logoColor=white)
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,java,numpy,pandas,streamlit,django,pycharm&perline=14" />
