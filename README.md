@@ -94,13 +94,6 @@
 ![MySQL](https://img.shields.io/badge/-Laravel-fc0008?style=flat&logo=laravel&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-FastAPI-00c28e?style=flat&logo=fastapi&logoColor=white)
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,numpy,pandas,streamlit,django,pycharm&perline=14" />
-  </a>
-</p>
-
-
 <!-- Connect with me -->
 <!--h2 without bottom border-->
 <div id="user-content-toc">
