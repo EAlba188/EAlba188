@@ -16,7 +16,6 @@
 
 - 🌱 I’m currently learning **Computer Science at UoPeople**.
 
-- 📫 Feel free to reach me out **edenalba188@gmail.com**.
 
 <!--Intro end-->
 
